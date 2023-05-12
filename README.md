@@ -4,7 +4,7 @@
 
 卡片JSON:
 ```
-{"app":"com.tencent.imagetextbot","desc":"","view":"index","ver":"1.0.0.11","prompt":"嘿壳","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"robot":{"cover":"https:\/\/wxy.fufuya.top\/love\/getip.php","jump_url":"","subtitle":"","title":""}},"config":{"ctime":1683895418,"token":"907fa61efb92572a4b3ac32fa7104db9"},"text":"","sourceAd":"","extra":""}
+{"app":"com.tencent.imagetextbot","desc":"","view":"index","ver":"1.0.0.11","prompt":"[图片]IP显示","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"robot":{"cover":"https:\/\/wxy.fufuya.top\/love\/getip.php","jump_url":"","subtitle":"来自https:\/\/wxy.fufuya.top\/love\/getip.php","title":"IP显示"}},"config":{"ctime":1683895418,"token":"85825de4aea286143d0af9288e0e96df"},"text":"","extraApps":[],"sourceAd":"","extra":""}
 ```
 - 预览： 
 ![](https://wxy.fufuya.top/love/getip.php) 
