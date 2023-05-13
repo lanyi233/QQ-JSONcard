@@ -26,4 +26,6 @@
 -------
 ## 音乐类：![music.md](https://github.com/lanyi233/QQ-JSONcard/blob/main/Card/music.md)
 
+### 因部分原因 请跳转到文档来查看
+
 -------
