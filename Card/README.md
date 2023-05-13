@@ -22,3 +22,6 @@
 ```
 - 预览：  
 ![](http://api.caonm.net/api/dm/index.php)
+
+-------
+## 音乐类：![music.md](https://github.com/lanyi233/QQ-JSONcard/blob/main/Card/music.md)
