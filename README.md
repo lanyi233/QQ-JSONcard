@@ -5,3 +5,5 @@
 [![Qtool](https://github.com/Hicores/QTool);![Qaxuiliary](https://github.com/cinit/QAuxiliary)]
 
 快捷目录：
+
+![全部卡片列表](https://github.com/lanyi233/QQ-JSONcard/blob/main/Card/README.md)
