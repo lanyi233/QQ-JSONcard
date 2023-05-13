@@ -1,5 +1,5 @@
 # 全部卡片列表
-## IP类：
+## IP类：![IP.md](https://github.com/lanyi233/QQ-JSONcard/blob/main/Card/IP.md)
 ### IP显示实时渲染[【wxy.fufuya.top】](https://wxy.fufuya.top/love/getip.php)
 ##URL:`https://wxy.fufuya.top/love/getip.php`
 
@@ -10,7 +10,7 @@
 - 预览： 
 ![](https://wxy.fufuya.top/love/getip.php) 
 ------- 
-## 图片类：
+## 图片类：![pic.md]()
 ### 随机图片[【api.caonm.net】（API id:dm）](http://api.caonm.net/api/dm/index.php)
 ##URL:`http://api.caonm.net/api/dm/index.php`
 
