@@ -10,7 +10,7 @@
 
 |  -![全部卡片列表](https://github.com/lanyi233/QQ-JSONcard/blob/main/Card/README.md)
 
-|  -![IP类](https://github.com/lanyi233/QQ-JSONcard/blob/main/Card/ip.md)
+|  -![IP类](https://github.com/lanyi233/QQ-JSONcard/blob/main/Card/IP.md)
 
 |  -![图片类](https://github.com/lanyi233/QQ-JSONcard/blob/main/Card/pic.md)
 
