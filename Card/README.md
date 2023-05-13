@@ -12,7 +12,7 @@
 - 预览： 
 ![](https://wxy.fufuya.top/love/getip.php) 
 ------- 
-## 图片类：![pic.md]()
+## 图片类：![pic.md](https://github.com/lanyi233/QQ-JSONcard/blob/main/Card/pic.md)
 ### 随机图片[【api.caonm.net】（API id:dm）](http://api.caonm.net/api/dm/index.php)
 ##URL:`http://api.caonm.net/api/dm/index.php`
 
